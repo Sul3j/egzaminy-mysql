@@ -1,0 +1,10 @@
+Za pomocą narzędzia phpMyAdmin wykonaj operacje na bazie danych:
+
+Utwórz bazę danych o nazwie wedkarstwo
+Do bazy wedkarstwo zaimportuj tabele z pliku baza.sql z rozpakowanego archiwum
+Wykonaj zrzut ekranu po imporcie. Zrzut zapisz w formacie PNG i nazwij import. Nie kadruj zrzutu. Powinien on obejmować cały ekran monitora, z widocznym paskiem zadań. Na zrzucie powinny być widoczne elementy wskazujące na poprawnie wykonany import tabel
+Wykonaj zapytania SQL działające na bazie wedkarstwo. Zapytania zapisz w pliku kwerendy.txt. Wykonaj zrzuty ekranu przedstawiające wyniki działania kwerend. Zrzuty zapisz w formacie JPEG i nadaj im nazwy kw1, kw2, kw3, kw4. Zrzuty powinny obejmować cały ekran monitora z widocznym paskiem zadań
+Zapytanie 1: wstawiające rekord do tabeli zawody_wedkarskie o wartościach: klucz główny nadawany automatycznie, Karty_wedkarskie_id - 2; Lowisko_id - 4; data_zawodow - „2021-09-28”; sedzia – Andrzej Nowak
+Zapytanie 2: wybierające jedynie pola id oraz data_zawodow z tabeli zawody_wedkarskie dla sędziego Krzysztofa Dobrowolskiego
+Zapytanie 3: wybierające jedynie pola imie, nazwisko i punkty z tabeli karty_wedkarskie dla zwycięzcy zawodów wędkarskich o identyfikatorze 4 (identyfikator dotyczy zawodów, a nie wędkarza), należy użyć relacji
+Zapytanie 4: aktualizujące dane w tabeli karty_wedkarskie, wartość pola punkty dla rekordu o identyfikatorze 1 należy zwiększyć o 2

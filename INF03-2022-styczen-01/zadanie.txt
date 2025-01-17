@@ -1,0 +1,9 @@
+Za pomocą narzędzia phpMyAdmin wykonaj operacje na bazie danych:
+
+Utwórz nową bazę danych o nazwie baza
+Zaimportuj do bazy tabele z pliku baza.sql, z wcześniej rozpakowanego archiwum. Wykonaj zrzut ekranu po imporcie. Zrzut zapisz w formacie JPEG i nazwij zad1. Nie kadruj zrzutu. Zrzut powinien obejmować cały ekran, z widocznym paskiem zadań. Na zrzucie powinny być widoczne elementy wskazujące na poprawnie wykonany import tabel.
+Zapisz i wykonaj zapytania SQL działające na bazie. Wykonaj zrzuty ekranu przedstawiające wyniki działania kwerend. Zrzuty zapisz w formacie JPEG i nadaj im nazwy kw1, kw2, kw3, kw4. Zrzuty powinny obejmować cały ekran monitora z widocznym paskiem zadań. Zapytania zapisz w pliku kwerendy.txt
+Zapytanie 1: wstawiające do tabeli rezerwacje rekord z danymi: numer stolika = 1, data = „2017-07- 04”, liczba osób = 4, numer telefonu = „111222333”, wartość pola id nadawana jest automatycznie
+Zapytanie 2: wybierające z tabeli dania jedynie pola nazwa i cena dla dań mięsnych
+Zapytanie 3: wybierające z tabeli dania jedynie pole nazwa dla takich przekąsek, których cena jest mniejsza od 15 zł
+Zapytanie 4: aktualizujące dane w tabeli pracownicy. Dla wszystkich pracowników, którzy zatrudnieni są jako kelner, należy dokonać zmiany stanowiska na barman

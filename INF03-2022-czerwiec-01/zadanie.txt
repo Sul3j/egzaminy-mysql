@@ -1,0 +1,10 @@
+Za pomocą narzędzia phpMyAdmin wykonaj operacje na bazie danych:
+
+Utwórz bazę danych o nazwie wedkowanie
+Do bazy wedkowanie zaimportuj tabele z pliku baza.sql z rozpakowanego archiwum
+Wykonaj zrzut ekranu po imporcie. Zrzut zapisz w formacie PNG i nazwij import. Nie kadruj zrzutu. Powinien on obejmować cały ekran monitora, z widocznym paskiem zadań. Na zrzucie powinny być widoczne elementy wskazujące na poprawnie wykonany import tabel.
+Wykonaj zapytania SQL działające na bazie wedkowanie. Zapytania zapisz w pliku kwerendy.txt. Wykonaj zrzuty ekranu przedstawiające wyniki działania kwerend. Zrzuty zapisz w formacie JPEG i nadaj im nazwy kw1, kw2, kw3, kw4. Zrzuty powinny obejmować cały ekran monitora z widocznym paskiem zadań.
+Zapytanie 1: wybierające jedynie pola id, nazwa i wystepowanie z tabeli Ryby dla ryb drapieżnych
+Zapytanie 2: wybierające jedynie pola Ryby_id oraz wymiar_ochronny z tabeli Okres_ochronny dla ryb, których wymiar ochronny jest mniejszy niż 30 cm
+Zapytanie 3: wybierające jedynie pole nazwa z tabeli Ryby oraz odpowiadające tej nazwie pola akwen i wojewodztwo z tabeli Lowisko dla łowisk, które są rzekami. Zapytanie wykorzystuje relację
+Zapytanie 4: dodające do tabeli Ryby kolumnę dobowy_limit typu numerycznego, o rozmiarze pozwalającym na wpisanie jedynie liczb z przedziału <0, 255>

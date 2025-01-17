@@ -1,0 +1,9 @@
+Za pomocą narzędzia phpMyAdmin należy wykonać operacje na bazie danych:
+
+Utworzenie bazy danych o nazwie: sklep z zestawem polskich znaków (np. utf8_unicode_ci)
+Import do bazy sklep z pliku sklep.sql. Czynność należy udokumentować zrzutem ekranu, na którym powinny być widoczne elementy wskazujące na poprawnie wykonany import tabel. Zrzut należy zapisać w formacie JPEG, pod nazwą import. Powinien on obejmować cały ekran monitora, z widocznym paskiem zadań.
+Zapytania SQL na bazie sklep zapisane do pliku kwerendy.txt. Wykonanie kwerend należy udokumentować zrzutami w formacie PNG o nazwach kw1, kw2, kw3, kw4. Zrzuty powinny obejmować cały ekran monitora z widocznym paskiem zadań
+Zapytanie 1: wybierające jedynie imię, nazwisko i miasto klientów z miast: Legionowo, Warszawa
+Zapytanie 2: wybierające jedynie nazwę produktu dla produktów o cenie brutto wyższej od 500 zł
+Zapytanie 3: wybierające nazwę kategorii z tabeli kategorie i odpowiadającą jej wartość średniej arytmetycznej cen brutto produktów tej kategorii z tabeli produkty. Należy posłużyć się relacją
+Zapytanie 4: wybierające id zamówienia, ilość i wartość z tabeli zamowienia oraz odpowiadającą im nazwę produktu z tabeli produkty dla klienta o id równym 2. Należy posłużyć się relacją
