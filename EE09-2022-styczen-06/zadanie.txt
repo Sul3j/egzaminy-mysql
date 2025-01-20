@@ -1,0 +1,4 @@
+Zapytanie 1: tworzące użytkownika Agnieszka z hasłem haslo4
+Zapytanie 2: liczące w tabeli samochody średnią arytmetyczną roczników samochodów, których marką jest opel
+Zapytanie 3: wybierające jedynie nazwy marek samochodów i imiona klientów z nimi powiązane za pomocą tabeli wypozyczenia. Zapytanie wykorzystuje relację wiele do wielu pomiędzy trzema tabelami
+Zapytanie 4: usuwające kolumnę cena z tabeli klasa

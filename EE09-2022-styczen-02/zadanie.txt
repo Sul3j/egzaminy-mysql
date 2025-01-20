@@ -1,0 +1,4 @@
+Zapytanie 1: wybierające wszystkie pola z tabeli pogoda dla miast o id równym 1, posortowane rosnąco według daty prognozy
+Zapytanie 2: wybierające jedynie pola id oraz data_prognozy z tabeli pogoda dla tych rekordów, dla których opady przekraczają 30 mm/h
+Zapytanie 3: wybierające jedynie pola data_prognozy, temperatura_noc z tabeli pogoda oraz nazwa z tabeli miasta dla temperatur nocnych poniżej 6 stopni. Zapytanie wykorzystuje relację
+Zapytanie 4: dodające do tabeli miasta kolumnę wojewodztwo dowolnego typu tekstowego

@@ -1,0 +1,4 @@
+Zapytanie 1: dodające rekord do tabeli ratownicy o wartościach: nrKaretki – 20, ratownicy, kolejno – Adam Nowak, Jan Kowalski, Anna Nowakowska. Baza powinna sama nadać wartość pola id dla tabeli
+Zapytanie 2: wybierające jedynie pola id, adres oraz ratownicy_id z tabeli zgloszenia, dla zgłoszeń przyjętych przez dyspozytora o id = 4
+Zapytanie 3: tworzące użytkownika adam z hasłem Adam6&
+Zapytanie 4: nadające dla użytkownika adam prawa tworzenia obiektu, edycji struktury obiektu i usuwania obiektu dla tabeli ratownicy

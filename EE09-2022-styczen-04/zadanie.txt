@@ -1,0 +1,9 @@
+Zapytanie 1: tworzące tabelę uzytkownicy. Tabela powinna zawierać
+klucz główny id typu całkowitego dodatniego, jawnie zapisany oraz automatycznie inkrementowany, nie może przyjmować wartości pustych
+login typu napisowego maksymalnie 50-znakowego
+haslo typu napisowego maksymalnie 50-znakowego
+Zapytanie 2: dodające do tabeli użytkownika o loginie Grzegorz z hasłem „g” (bez szyfrowania)
+Po wykonaniu zapytań 1 i 2 zaimportuj do tabeli uzytkownicy plik uzytkownicy.sql z rozpakowanego archiwum. Wykonaj zrzut ekranu po imporcie. Na zrzucie powinna być widoczna zawartość tabeli uzytkownicy. Zrzut zapisz w folderze z numerem PESEL lub w przypadku jego braku w folderze z innym numerem, którym został podpisany arkusz, w formacie PNG i nazwij egzamin. Nie kadruj zrzutu. Powinien on obejmować cały ekran monitora, z widocznym paskiem zadań
+Po wykonaniu importu należy wykonać pozostałe zapytania SQL
+Zapytanie 3: wybierające jedynie pole login z tabeli uzytkownicy
+Zapytanie 4: wybierające jedynie pola id oraz login z tabeli uzytkownicy dla użytkowników, których hasło zaczyna się od cyfry 4
