@@ -1,0 +1,9 @@
+Zapytanie 1: wybierające jedynie liczbę wierszy i pensję grupując pracowników według pensji i sortując 
+dane malejąco ze względu na pensję. W wyniku zapytania są wyświetlane poszczególne pensje oraz 
+liczba osób, które pobierają taką pensję
+Zapytanie 2: wybierające jedynie imiona i nazwiska pracowników oraz odpowiadające im 
+nazwy stanowisk dla pracowników o stażu wyższym niż 10 lat. Należy posłużyć się relacją
+Zapytanie 3: wybierające jedynie nazwiska i pensję dla pracowników, których staż wynosi od 
+10 do 20 lat
+Zapytanie 4: Dodające do tabeli stanowiska kolumnę o nazwie minPensja dowolnego typu 
+całkowitego
