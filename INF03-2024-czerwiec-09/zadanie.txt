@@ -1,0 +1,9 @@
+Zapytanie 1: wybierające jedynie miejsce i liczbę dni dla wycieczek, których cena jest mniejsza od 
+1000 zł
+Zapytanie 2: liczące średnią cenę dla wycieczek pogrupowanych ze względu na liczbę dni 
+(czyli średnia cena wycieczek jednodniowych, dwudniowych itd.). Kwerenda wybiera jedynie 
+liczbę dni oraz średnią cenę, której kolumnę należy nazwać (alias) sredniaCena
+Zapytanie 3: wybierające jedynie miejsce wycieczki i odpowiadającą mu nazwę zdjęcia dla 
+wycieczek, których cena jest wyższa od 500 zł. Należy posłużyć się relacją
+Zapytanie 4: Tworzące użytkownika Ewa o haśle Ewa!Ewa dla bazy wycieczki na serwerze 
+localhost

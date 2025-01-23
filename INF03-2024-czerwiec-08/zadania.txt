@@ -1,0 +1,7 @@
+Zapytanie 1: wybierające jedynie imiona i nazwiska osób urodzonych po 2000 roku 
+Zapytanie 2: wybierające nazwy miast, z których pochodzą klienci posortowane alfabetycznie 
+rosnąco. Nazwy miast nie mogą się powtarzać 
+Zapytanie 3: wybierające jedynie imiona i nazwiska osób oraz odpowiadające im numery 
+telefonów. Należy posłużyć się relacją
+Zapytanie 4: Dodające kolumnę numerMieszkania typu całkowitego, do tabeli Adresy po 
+kolumnie numer
