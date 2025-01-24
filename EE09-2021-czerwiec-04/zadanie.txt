@@ -1,0 +1,4 @@
+Zapytanie 1: wybierające jedynie pola id, imie, nazwisko, rok_urodzenia, zdjecie z tabeli osoby. Kwerenda wybiera pierwsze 30 wierszy, należy jawnie wskazać liczbę wierszy
+Zapytanie 2: wybierające jedynie pola imie, nazwisko, rok_urodzenia, opis, zdjecie z tabeli osoby oraz odpowiadające im pole nazwa z tabeli hobby dla osoby o id równym 10
+Zapytanie 3: liczące średni rok urodzenia oraz najniższy i najwyższy rok urodzenia z tabeli osoby
+Zapytanie 4: aktualizujące pole opis z tabeli osoby dla osób, których pole Hobby_id jest równe 4. Wartość nowego wpisu w polu opis jest dowolna będąca możliwym hobby
