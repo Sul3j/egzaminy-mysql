@@ -1,0 +1,8 @@
+Zapytanie 1: wybierające jedynie pola tytul i plik z tabeli zdjecia dla zdjęć z polubieniami większymi lub 
+równymi 100
+Zapytanie 2: wybierające jedynie pola plik, tytul, polubienia z tabeli zdjecia oraz odpowiadające im pola 
+imie i nazwisko z tabeli autorzy posortowane rosnąco według nazwiska. Należy posłużyć się relacją
+Zapytanie 3: wybierające jedynie pole imie oraz liczące ile jest zdjęć dla tego imienia. Należy 
+posłużyć się relacją
+Zapytanie 4: modyfikujące strukturę tabeli zdjecia. Dodana jest kolumna rozmiarPliku typu 
+całkowitego

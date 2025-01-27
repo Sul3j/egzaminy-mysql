@@ -1,0 +1,11 @@
+Zapytanie 1: aktualizujące tabelę wagi. Rekordy, w których pole lokalizacje_id jest równe: 2, 3, 4 mają
+zmienione datę i czas na wartości aktualne. Zapytanie ma charakter uniwersalny, zawsze zmienia 
+wartość na aktualną datę / czas 
+Zapytanie 2: wybierające jedynie ulicę z tabeli lokalizacje
+Zapytanie 3: wstawiające do tabeli wagi rekord z danymi: lokalizacje_id: 5, waga: losowa 
+liczba z przedziału 1..10 (wygenerowana funkcją), rejestracja: DW12345, aktualna data (do 
+pola dzien) i aktualny czas (do pola czas). Klucz główny nadawany automatycznie. Zapytanie 
+ma charakter uniwersalny, zawsze wstawia wartość aktualnej daty i czasu
+Zapytanie 4: wybierające jedynie pola rejestracja, waga, dzien, czas z tabeli wagi
+i odpowiadające mu pole ulica z tabeli lokalizacje dla pojazdów, których waga na oś 
+przekracza 5 t. Należy posłużyć się relacją
