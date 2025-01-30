@@ -1,0 +1,6 @@
+Zapytanie 1: wybierające jedynie nazwy wycieczek, których początek jest w Muszynie, Wieliczce 
+Zapytanie 2: wybierające jedynie pola nazwa, opis i poczatek z tabeli wycieczki oraz 
+odpowiadające im pole zrodlo z tabeli zdjecia. Należy posłużyć się relacją
+Zapytanie 3: zliczające liczbę wycieczek wpisanych do tabeli wycieczki
+Zapytanie 4: modyfikujące strukturę tabeli wycieczki, poprzez dodanie kolumny ocena typu 
+całkowitego
