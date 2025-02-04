@@ -1,0 +1,8 @@
+Zapytanie 1: wybierające jedynie pola imie i nazwisko dla wszystkich rekordów w tabeli autorzy, 
+posortowane rosnąco nazwiskami autorów 
+Zapytanie 2: wstawiające do tabeli czytelnicy nowy rekord z danymi: Ewa Kowalska z kodem 
+145321. Wartość klucza głównego nadawana automatycznie
+Zapytanie 3: wybierające jedynie pole tytul dla wszystkich utworów w tabeli ksiazki, należących 
+do kategorii dramat
+Zapytanie 4: wybierające jedynie pole tytul wszystkich utworów w tabeli książki, wypożyczonych 
+przez czytelnika o identyfikatorze 2. W zapytaniu 4 należy posłużyć się relacją

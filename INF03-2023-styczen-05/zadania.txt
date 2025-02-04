@@ -1,0 +1,6 @@
+Zapytanie 1: wybierające jedynie pola dataZadania i wpis dla zadań, z miesiąca sierpnia
+Zapytanie 2: wybierające jedynie pola miesiac i rok dla zadania z dnia 7 sierpnia 2020 r.
+Zapytanie 3: wybierające jedynie nazwę miesiąca oraz liczące dla każdego miesiąca ile jest 
+wpisów rozpoczynających się od słowa „Weterynarz” w kolumnie wpis
+−Zapytanie 4: aktualizujące pole wpis dla zadania z datą 9 sierpnia 2020, nowy wpis to „Wycieczka: 
+Zalew Mietkowsk
