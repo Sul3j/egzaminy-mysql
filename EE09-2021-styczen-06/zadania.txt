@@ -1,0 +1,4 @@
+Zapytanie 1: wybierające jedynie pola id, nr_rejsu, czas, kierunek i status_lotu z tabeli odloty posortowane malejąco według czasu
+Zapytanie 2: wyznaczające najwcześniejszy (najmniejszy) czas odlotu dla lotów, których czas odlotu jest pomiędzy 10:10 ÷ 10:19
+Zapytanie 3: wybierające jedynie pola nr_rejsu z tabeli odloty oraz linie z tabeli samoloty, dla lotów których kierunkiem jest Malta; zapytanie wykorzystuje relację
+Zapytanie 4: aktualizujące w tabeli przyloty pole status_lotu na: „planowy” dla lotu o numerze rejsu LH9829
