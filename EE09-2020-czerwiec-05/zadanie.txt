@@ -1,0 +1,4 @@
+Zapytanie 1: wybierająca jedynie pola imie i nazwisko z tabeli kadra dla pracowników na stanowisku fryzjer
+Zapytanie 2: liczące liczbę rekordów w tabeli uslugi dla wszystkich usług fryzjerskich (rodzaj odpowiada usługom fryzjerskim)
+Zapytanie 3: tworzące użytkownika fryzjer na localhost z hasłem Fryz12
+Zapytanie 4: nadające prawa tworzenia i modyfikowania struktury tabeli oraz przeglądania danych w tabeli kadra bazy egzamin2 dla użytkownika fryzjer

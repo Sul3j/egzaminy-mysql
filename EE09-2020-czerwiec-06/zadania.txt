@@ -1,0 +1,4 @@
+Zapytanie 1: wybierające jedynie pola id, cel, cena z tabeli wycieczki dla wycieczek, które nie są dostępne (pole dostepna)
+Zapytanie 2: wybierające jedynie pola nazwaPliku i podpis z tabeli zdjecia sortując je malejąco alfabetycznie według kolumny podpis
+Zapytanie 3: wykorzystujące relację i wybierające jedynie pola podpis, cena i cel związany ze zdjęciem z tabel zdjecia i wycieczki, dla wycieczek, których cena jest niższa niż 1200 zł
+Zapytanie 4: usuwające pole dataWyjazdu z tabeli wycieczki

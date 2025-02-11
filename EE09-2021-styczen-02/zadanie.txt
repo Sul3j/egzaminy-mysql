@@ -1,0 +1,4 @@
+Zapytanie 1: wybierające jedynie pola imie i nazwisko z tabeli zawodnik dla zawodników, którym przypisane jest id pozycji równe 4
+Zapytanie 2: wybierające jedynie pola zespol, punkty, grupa z tabeli liga sortowane malejąco według punktów
+Zapytanie 3: wybierające jedynie pola id, nazwisko z tabeli zawodnik oraz nazwę z tabeli pozycja dla zawodników, których id jest równe 3 lub 5
+Zapytanie 4: usuwające jedną kwerendą SQL wszystkie dane z tabeli rozgrywka (sama tabela nie jest usuwana)
