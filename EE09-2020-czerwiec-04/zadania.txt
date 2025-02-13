@@ -1,0 +1,4 @@
+Zapytanie 1: wybierające jedynie pola nazwa i cena z tabeli uslugi dla usług, których cena jest niższa od 30 zł
+Zapytanie 2: liczące sumę cen dla wszystkich usług kosmetycznych (rodzaj odpowiada usługom kosmetycznym)
+Zapytanie 3: tworzące użytkownika kosmetyczka na localhost z hasłem Kosmet34
+Zapytanie 4: nadające prawa przeglądania danych i wstawiania rekordów do tabeli uslugi bazy egzamin1 dla użytkownika kosmetyczka
