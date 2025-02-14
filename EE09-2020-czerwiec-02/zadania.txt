@@ -1,0 +1,4 @@
+Zapytanie 1: wybierające jedynie pola id, dataWyjazdu, cel i cena z tabeli wycieczki dla dostępnych wycieczek (pole dostepna)
+Zapytanie 2: wybierające jedynie pola nazwaPliku i podpis z tabeli zdjecia, sortując je rosnąco alfabetycznie według kolumny podpis
+Zapytanie 3: wykorzystujące relację i wybierające jedynie pola nazwaPliku i cel związany ze zdjęciem z tabel zdjecia i wycieczki, dla wycieczek, których cena jest wyższa niż 1000 zł
+Zapytanie 4: dodające do tabeli wycieczki pole dataPrzyjazdu typu data, pole powinno być wstawione po polu dataWyjazdu
